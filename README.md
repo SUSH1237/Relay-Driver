@@ -4,10 +4,10 @@
 LTspice simulation of a relay driver circuit that uses a 3.3V microcontroller signal to switch a 12V relay coil. Designed as part of a battery discharge test system for DC-DC solar-to-EV power conversion research at Arizona State University.
  
 ## Schematic
-![Schematic]()
+![Schematic](https://github.com/SUSH1237/Relay-Driver/blob/a4ee95b3e3a0fec9a7f3e2e174f8b01526c365e9/RelayDriverSchem.png)
  
 ## Simulation Results
-![Simulation Graph]()
+![Simulation Graph](https://github.com/SUSH1237/Relay-Driver/blob/a4ee95b3e3a0fec9a7f3e2e174f8b01526c365e9/RelayDriverGraph.png)
  
 ## Circuit Description
 A 2N2222 NPN transistor acts as a low-side switch, allowing a 3.3V GPIO signal to control a 12V relay coil without exposing the microcontroller to high voltage. A 1N4007 flyback diode protects the transistor from inductive voltage spikes when the relay deactivates.
