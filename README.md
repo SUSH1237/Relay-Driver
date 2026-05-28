@@ -1,7 +1,7 @@
 # Relay Driver Circuit — LTspice Simulation
  
 ## Overview
-LTspice simulation of a relay driver circuit that uses a 3.3V microcontroller signal to switch a 12V relay coil. Designed as part of a battery discharge test system for DC-DC solar-to-EV power conversion research at Arizona State University.
+LTspice simulation of a relay driver circuit that uses a 3.3V microcontroller signal to switch a 12V relay coil. Designed as part of a battery discharge test system for DC-DC solar-to-EV power conversion research.
  
 ## Schematic
 ![Schematic](https://github.com/SUSH1237/Relay-Driver/blob/a4ee95b3e3a0fec9a7f3e2e174f8b01526c365e9/RelayDriverSchem.png)
